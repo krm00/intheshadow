@@ -10636,3 +10636,229 @@ Make sure 'BP_InteractObject_Master' has been compiled for  Set CurrentlyHeldIte
 [2025.03.03-21.48.57:529][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
 [2025.03.03-21.48.57:576][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
 [2025.03.03-21.48.57:623][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.03-21.53.50:815][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.03-21.53.50:863][ 41]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/STF/Pack03-LandscapePro/Maps/Ana_map' took 0.114
+[2025.03.03-21.53.50:969][ 41]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hersey/Megascans/3D_Assets/BrokenPineAssembly/F_BrokenPineAssembly] ([1] browsable assets)...
+[2025.03.03-21.53.50:969][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hersey/Megascans/3D_Assets/BrokenPineAssembly/F_BrokenPineAssembly]
+[2025.03.03-21.53.51:062][ 41]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Hersey/Megascans/3D_Assets/BrokenPineAssembly/F_BrokenPineAssembly_Auto3
+[2025.03.03-21.53.51:062][ 41]LogSavePackage: Moving '../../../../../../Users/alemd/Documents/Unreal Projects/intheshadow/Saved/F_BrokenPineAssembly_Auto3EE76140F4E4CC4B1BBB1E3B5186CE3F0.tmp' to '../../../../../../Users/alemd/Documents/Unreal Projects/intheshadow/Saved/Autosaves/Game/Hersey/Megascans/3D_Assets/BrokenPineAssembly/F_BrokenPineAssembly_Auto3.uasset'
+[2025.03.03-21.53.51:094][ 41]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hersey/Megascans/3D_Assets/CoalA/F_CoalA] ([1] browsable assets)...
+[2025.03.03-21.53.51:094][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hersey/Megascans/3D_Assets/CoalA/F_CoalA]
+[2025.03.03-21.53.51:095][ 41]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Hersey/Megascans/3D_Assets/CoalA/F_CoalA_Auto3
+[2025.03.03-21.53.51:095][ 41]LogSavePackage: Moving '../../../../../../Users/alemd/Documents/Unreal Projects/intheshadow/Saved/F_CoalA_Auto36C4D1C0648A81D405596D2BECF040FB6.tmp' to '../../../../../../Users/alemd/Documents/Unreal Projects/intheshadow/Saved/Autosaves/Game/Hersey/Megascans/3D_Assets/CoalA/F_CoalA_Auto3.uasset'
+[2025.03.03-21.53.51:096][ 41]LogFileHelpers: Auto-saving content packages took 0.233
+[2025.03.03-22.08.30:746][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.03-22.08.32:352][284]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.03-22.08.32:460][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2025.03.03-22.08.32:506][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.03.03-22.08.32:551][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.03.03-22.08.32:643][285]LogAutomationController: Ignoring very large delta of 2.06 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.03-22.08.36:427][406]LogStaticMesh: Display: Building static mesh -LOD2_p_hut_003...
+[2025.03.03-22.08.36:592][406]LogStaticMesh: Built static mesh [0.17s] /Game/WoodenBaraka2/-LOD2_p_hut_003.-LOD2_p_hut_003
+[2025.03.03-22.08.36:627][406]LogTexture: Display: Building textures: /Game/Hersey/ThirdParty/M5VFXVOL2/Textures/smoke/0_6_smoke.0_6_smoke (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.03.03-22.08.36:627][406]LogTexture: Display: Building textures: /Game/Hersey/ThirdParty/M5VFXVOL2/Textures/smoke/1_6_smoke2_1.1_6_smoke2_1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.03.03-22.08.36:682][406]LogStaticMesh: Display: Building static mesh 1M_Cube...
+[2025.03.03-22.08.36:699][406]LogStaticMesh: Built static mesh [0.02s] /Game/A_Surface_Footstep/Environment_Assets/1M_Cube.1M_Cube
+[2025.03.03-22.08.36:719][406]LogStaticMesh: Display: Building static mesh 1M_Cube_Chamfer...
+[2025.03.03-22.08.36:736][406]LogStaticMesh: Built static mesh [0.02s] /Game/A_Surface_Footstep/Environment_Assets/1M_Cube_Chamfer.1M_Cube_Chamfer
+[2025.03.03-22.08.36:767][406]LogTexture: Display: Building textures: /Game/Hersey/ThirdParty/M5VFXVOL2/Textures/Flow/Circle_normal.Circle_normal (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2025.03.03-22.08.36:804][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2025.03.03-22.08.40:274][406]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.03-22.08.40:371][406]LogUObjectGlobals: Force Deleting 14 Package(s):
+	Asset Name: /Game/WoodenBaraka2/-LOD2_p_hut_003.-LOD2_p_hut_003
+	Asset Type: StaticMesh
+	Asset Name: /Game/Hersey/ThirdParty/M5VFXVOL2/Textures/smoke/0_6_smoke.0_6_smoke
+	Asset Type: Texture2D
+	Asset Name: /Game/MetaHumans/Common/Common/PoseLibrary/Face/Visemes/19_Ur.19_Ur
+	Asset Type: ControlRigPoseAsset
+	Asset Name: /Game/Hersey/ThirdParty/M5VFXVOL2/Textures/smoke/1_6_smoke2_1.1_6_smoke2_1
+	Asset Type: Texture2D
+	Asset Name: /Game/Hersey/ThirdParty/M5VFXVOL2/Materials/Smoke_Inst/1_6_smoke2_1_Inst.1_6_smoke2_1_Inst
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/A_Surface_Footstep/Environment_Assets/1M_Cube.1M_Cube
+	Asset Type: StaticMesh
+	Asset Name: /Game/A_Surface_Footstep/Environment_Assets/1M_Cube_Chamfer.1M_Cube_Chamfer
+	Asset Type: StaticMesh
+	Asset Name: /Game/MetaHumans/Common/Common/PoseLibrary/Face/Visemes/20_FV.20_FV
+	Asset Type: ControlRigPoseAsset
+	Asset Name: /Game/MetaHumans/Common/Common/PoseLibrary/Face/Visemes/20_FV-Or.20_FV-Or
+	Asset Type: ControlRigPoseAsset
+	Asset Name: /Game/MetaHumans/Common/Common/PoseLibrary/Face/Visemes/21_FV.21_FV
+	Asset Type: ControlRigPoseAsset
+[2025.03.03-22.08.41:674][406]LogMaterial: Warning: [AssetLog] C:\Users\alemd\Documents\Unreal Projects\intheshadow\Content\Hersey\ThirdParty\M5VFXVOL2\Materials\Master\Smoke1_Mat.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameterSubUV) Parameter SubUV> Found NULL, requires Texture2D
+
+[2025.03.03-22.08.41:678][406]LogMaterial: Warning: [AssetLog] C:\Users\alemd\Documents\Unreal Projects\intheshadow\Content\Hersey\ThirdParty\M5VFXVOL2\Materials\Master\Smoke1_Mat.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameterSubUV) Parameter SubUV> Found NULL, requires Texture2D
+
+[2025.03.03-22.08.42:992][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2025.03.03-22.08.43:041][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.03.03-22.08.43:086][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.03-22.08.43:143][406]LogShaderCompilers: Display: ================================================
+[2025.03.03-22.08.43:143][406]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.03-22.08.43:143][406]LogShaderCompilers: Display: Total job queries 1.771, among them cache hits 196 (11.07%)
+[2025.03.03-22.08.43:143][406]LogShaderCompilers: Display: Tracking 1.572 distinct input hashes that result in 1.060 distinct outputs (67.43%)
+[2025.03.03-22.08.43:143][406]LogShaderCompilers: Display: RAM used: 37,58 MiB of 409,60 MiB budget. Usage: 9.18%
+[2025.03.03-22.08.43:143][406]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.03-22.08.43:143][406]LogShaderCompilers: Display: Shaders Compiled: 1.244
+[2025.03.03-22.08.43:143][406]LogShaderCompilers: Display: Jobs assigned 1.244, completed 1.244 (100.00%)
+[2025.03.03-22.08.43:143][406]LogShaderCompilers: Display: Average time worker was idle: 34.67 s
+[2025.03.03-22.08.43:143][406]LogShaderCompilers: Display: Time job spent in pending queue: average 25.59 s, longest 133.29 s
+[2025.03.03-22.08.43:143][406]LogShaderCompilers: Display: Job execution time: average 2.99 s, max 24.85 s
+[2025.03.03-22.08.43:143][406]LogShaderCompilers: Display: Job life time (pending + execution): average 28.58 s, max 135.92
+[2025.03.03-22.08.43:143][406]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 494.54 s
+[2025.03.03-22.08.43:143][406]LogShaderCompilers: Display: Jobs were issued in 1.074 batches (only local compilation was used), average 1.16 jobs/batch
+[2025.03.03-22.08.43:143][406]LogShaderCompilers: Display: Average processing rate: 2.52 jobs/sec
+[2025.03.03-22.08.43:143][406]LogShaderCompilers: Display: Total thread time: 1.426,115 s
+[2025.03.03-22.08.43:143][406]LogShaderCompilers: Display: Total thread preprocess time: 81,123 s
+[2025.03.03-22.08.43:143][406]LogShaderCompilers: Display: Percentage time preprocessing: 5.69%
+[2025.03.03-22.08.43:144][406]LogShaderCompilers: Display: Effective parallelization: 2.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.03.03-22.08.43:144][406]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.03-22.08.43:144][406]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 2.73 sec, max 2.73 sec, min 2.73 sec)
+[2025.03.03-22.08.43:144][406]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 2.45 sec, max 2.45 sec, min 2.45 sec)
+[2025.03.03-22.08.43:144][406]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   34 times, average 2.43 sec, max 4.74 sec, min 1.26 sec)
+[2025.03.03-22.08.43:144][406]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled    6 times, average 2.32 sec, max 3.92 sec, min 1.67 sec)
+[2025.03.03-22.08.43:144][406]LogShaderCompilers: Display:                                               FHWRasterizePS (compiled    6 times, average 2.17 sec, max 3.79 sec, min 1.30 sec)
+[2025.03.03-22.08.43:144][406]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.03-22.08.43:144][406]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.53% of total time (compiled  173 times, average 1.69 sec, max 4.36 sec, min 0.67 sec)
+[2025.03.03-22.08.43:144][406]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.88% of total time (compiled  153 times, average 1.39 sec, max 5.33 sec, min 0.65 sec)
+[2025.03.03-22.08.43:144][406]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.03% of total time (compiled   85 times, average 1.01 sec, max 1.81 sec, min 0.57 sec)
+[2025.03.03-22.08.43:144][406]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 5.79% of total time (compiled   34 times, average 2.43 sec, max 4.74 sec, min 1.26 sec)
+[2025.03.03-22.08.43:144][406]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.03% of total time (compiled   85 times, average 0.84 sec, max 1.43 sec, min 0.42 sec)
+[2025.03.03-22.08.43:144][406]LogShaderCompilers: Display: ================================================
+[2025.03.03-22.08.43:199][406]LogMaterial: Warning: Smoke1_Mat: Requesting an invalid TextureIndex! (1 / 1)
+[2025.03.03-22.08.43:330][407]LogAutomationController: Ignoring very large delta of 7.10 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.03-22.08.51:163][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2025.03.03-22.08.52:921][647]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.03-22.08.53:023][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.03.03-22.08.53:079][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.03-22.08.53:127][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.03-22.08.53:176][648]LogAutomationController: Ignoring very large delta of 2.11 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.03-22.08.53:466][649]LogContentBrowserAssetDataSource: Warning: Unable to convert short ParentClass name "None" to path name
+[2025.03.03-22.09.03:339][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.03.03-22.09.04:938][  9]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.03-22.09.05:018][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.03.03-22.09.05:065][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.03.03-22.09.05:114][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.03.03-22.09.08:102][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.03.03-22.09.09:650][ 91]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.03-22.09.09:720][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2025.03.03-22.09.09:766][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.03.03-22.09.09:815][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.03.03-22.09.27:230][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Female/Medium/NormalWeight/Poses/f_med_nrw_hand_l_anim.f_med_nrw_hand_l_anim
+[2025.03.03-22.09.27:479][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Female/Medium/NormalWeight/Poses/f_med_nrw_hand_l_anim.f_med_nrw_hand_l_anim, at AnimationSequence/9c0ee07b8400de73f987a6e28b608b8b5e9efe1c
+[2025.03.03-22.09.27:627][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Female/Medium/NormalWeight/Poses/f_med_nrw_hand_r_anim.f_med_nrw_hand_r_anim
+[2025.03.03-22.09.27:829][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Female/Medium/NormalWeight/Poses/f_med_nrw_hand_r_anim.f_med_nrw_hand_r_anim, at AnimationSequence/c14d1cc5bfec1dc7100ca78f5122fa09e6091488
+[2025.03.03-22.09.27:943][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Female/Medium/NormalWeight/Poses/f_med_nrw_index_01_l_anim.f_med_nrw_index_01_l_anim
+[2025.03.03-22.09.28:113][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Female/Medium/NormalWeight/Poses/f_med_nrw_index_01_l_anim.f_med_nrw_index_01_l_anim, at AnimationSequence/0a6d4a1496a775b4d1b72e3a9dd3fe07875f538c
+[2025.03.03-22.09.28:242][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Female/Medium/NormalWeight/Poses/f_med_nrw_index_01_r_anim.f_med_nrw_index_01_r_anim
+[2025.03.03-22.09.28:435][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Female/Medium/NormalWeight/Poses/f_med_nrw_index_01_r_anim.f_med_nrw_index_01_r_anim, at AnimationSequence/92efa6cbdef681bf4c1803c328f26676900b45e7
+[2025.03.03-22.09.28:622][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Female/Medium/NormalWeight/Poses/f_med_nrw_index_02_l_anim.f_med_nrw_index_02_l_anim
+[2025.03.03-22.09.28:764][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Female/Medium/NormalWeight/Poses/f_med_nrw_index_02_l_anim.f_med_nrw_index_02_l_anim, at AnimationSequence/02003c5b18bac704d677bc9c840590be4673b0b2
+[2025.03.03-22.09.28:896][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Female/Medium/NormalWeight/Poses/f_med_nrw_index_02_r_anim.f_med_nrw_index_02_r_anim
+[2025.03.03-22.09.29:039][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Female/Medium/NormalWeight/Poses/f_med_nrw_index_02_r_anim.f_med_nrw_index_02_r_anim, at AnimationSequence/1d1e0cfc38aa487d1c069c7d5615184e288e5fdb
+[2025.03.03-22.09.29:133][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Female/Medium/NormalWeight/Poses/f_med_nrw_index_03_l_anim.f_med_nrw_index_03_l_anim
+[2025.03.03-22.09.29:281][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Female/Medium/NormalWeight/Poses/f_med_nrw_index_03_l_anim.f_med_nrw_index_03_l_anim, at AnimationSequence/67533149cdc61ac63b2bb95207fa437c0a99c167
+[2025.03.03-22.09.29:366][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2025.03.03-22.09.33:736][461]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.03-22.09.42:899][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_retarget_anim.m_med_nrw_retarget_anim
+[2025.03.03-22.09.42:949][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_retarget_anim.m_med_nrw_retarget_anim, at AnimationSequence/296a52e53c52be577b557f333f2b21424cffba0d
+[2025.03.03-22.09.43:047][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_pinky_02_r_anim.m_med_nrw_pinky_02_r_anim
+[2025.03.03-22.09.43:245][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_pinky_02_r_anim.m_med_nrw_pinky_02_r_anim, at AnimationSequence/93c8e9ff871193058cbf3198576e270d8ee45a8d
+[2025.03.03-22.09.43:316][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_pinky_03_r_anim.m_med_nrw_pinky_03_r_anim
+[2025.03.03-22.09.43:481][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_pinky_03_r_anim.m_med_nrw_pinky_03_r_anim, at AnimationSequence/623fb200c403a72a433d082011d39e0dff19a4e1
+[2025.03.03-22.09.43:554][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_pinky_01_r_anim.m_med_nrw_pinky_01_r_anim
+[2025.03.03-22.09.43:741][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_pinky_01_r_anim.m_med_nrw_pinky_01_r_anim, at AnimationSequence/eae57ac4b19080064dc81640fb424c73be4e12d1
+[2025.03.03-22.09.43:826][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_ring_02_r_anim.m_med_nrw_ring_02_r_anim
+[2025.03.03-22.09.43:984][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_ring_02_r_anim.m_med_nrw_ring_02_r_anim, at AnimationSequence/920683fb072dcc3b20c6ce3bd7144d3f85643306
+[2025.03.03-22.09.44:048][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_ring_03_r_anim.m_med_nrw_ring_03_r_anim
+[2025.03.03-22.09.44:226][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_ring_03_r_anim.m_med_nrw_ring_03_r_anim, at AnimationSequence/86c9af1553180a36c9e42231a04f17a4e5381729
+[2025.03.03-22.09.44:329][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_ring_01_r_anim.m_med_nrw_ring_01_r_anim
+[2025.03.03-22.09.44:502][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_ring_01_r_anim.m_med_nrw_ring_01_r_anim, at AnimationSequence/a80dde9945073da2f3a69367618c8b7ad15aa188
+[2025.03.03-22.09.44:574][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_middle_02_r_anim.m_med_nrw_middle_02_r_anim
+[2025.03.03-22.09.44:744][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_middle_02_r_anim.m_med_nrw_middle_02_r_anim, at AnimationSequence/200ce88be1d767243007db9bc797586b77c1d519
+[2025.03.03-22.09.44:819][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_middle_03_r_anim.m_med_nrw_middle_03_r_anim
+[2025.03.03-22.09.44:961][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_middle_03_r_anim.m_med_nrw_middle_03_r_anim, at AnimationSequence/e8771d67e0a3bf783f15ffca6b6ef18f9e990122
+[2025.03.03-22.09.45:029][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_middle_01_r_anim.m_med_nrw_middle_01_r_anim
+[2025.03.03-22.09.45:221][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_middle_01_r_anim.m_med_nrw_middle_01_r_anim, at AnimationSequence/ea4d161328fc873aef5fda5e51a3059116983cf6
+[2025.03.03-22.09.45:300][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_index_02_r_anim.m_med_nrw_index_02_r_anim
+[2025.03.03-22.09.45:443][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_index_02_r_anim.m_med_nrw_index_02_r_anim, at AnimationSequence/c33a3d1cb3e2a5dff890648db32f4db44e6d8a32
+[2025.03.03-22.09.45:519][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_index_03_r_anim.m_med_nrw_index_03_r_anim
+[2025.03.03-22.09.45:669][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_index_03_r_anim.m_med_nrw_index_03_r_anim, at AnimationSequence/1b62bc6e2631e4c1955051e081b83272ad701733
+[2025.03.03-22.09.45:734][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_index_01_r_anim.m_med_nrw_index_01_r_anim
+[2025.03.03-22.09.45:930][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_index_01_r_anim.m_med_nrw_index_01_r_anim, at AnimationSequence/ecc3d1e4251ffce96f90afb3aabe6f2e6e2e0b0d
+[2025.03.03-22.09.46:000][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_thumb_02_r_anim.m_med_nrw_thumb_02_r_anim
+[2025.03.03-22.09.46:090][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_thumb_02_r_anim.m_med_nrw_thumb_02_r_anim, at AnimationSequence/cbaf20351fd5bab4dc15a173d3757c92043d5236
+[2025.03.03-22.09.46:165][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_thumb_03_r_anim.m_med_nrw_thumb_03_r_anim
+[2025.03.03-22.09.46:255][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_thumb_03_r_anim.m_med_nrw_thumb_03_r_anim, at AnimationSequence/de3b5b9ac85bc35b78f25e5e9efa319761b3f9d6
+[2025.03.03-22.09.46:330][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_thumb_01_r_anim.m_med_nrw_thumb_01_r_anim
+[2025.03.03-22.09.46:441][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_thumb_01_r_anim.m_med_nrw_thumb_01_r_anim, at AnimationSequence/7aa4d441bb96cc41f43389e044619785f96d109d
+[2025.03.03-22.09.46:559][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_pinky_02_l_anim.m_med_nrw_pinky_02_l_anim
+[2025.03.03-22.09.46:820][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_pinky_02_l_anim.m_med_nrw_pinky_02_l_anim, at AnimationSequence/2fc94ba7a307ff0ae611531125f5a0e744cd0b5a
+[2025.03.03-22.09.46:922][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_pinky_03_l_anim.m_med_nrw_pinky_03_l_anim
+[2025.03.03-22.09.47:143][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_pinky_03_l_anim.m_med_nrw_pinky_03_l_anim, at AnimationSequence/8e063a54a68faa0fa408730dc66cf44f0dbf4991
+[2025.03.03-22.09.47:213][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_pinky_01_l_anim.m_med_nrw_pinky_01_l_anim
+[2025.03.03-22.09.47:408][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_pinky_01_l_anim.m_med_nrw_pinky_01_l_anim, at AnimationSequence/cfb4c716b8cb5c6c0c937fbad3e3857a151587c7
+[2025.03.03-22.09.47:489][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_ring_02_l_anim.m_med_nrw_ring_02_l_anim
+[2025.03.03-22.09.47:660][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_ring_02_l_anim.m_med_nrw_ring_02_l_anim, at AnimationSequence/c1a7ed418fcb00ade841f77c4f2a720d3cff6e1f
+[2025.03.03-22.09.47:727][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_ring_03_l_anim.m_med_nrw_ring_03_l_anim
+[2025.03.03-22.09.47:913][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_ring_03_l_anim.m_med_nrw_ring_03_l_anim, at AnimationSequence/8bfa864b69661d557f9c54c165f9006d0f617490
+[2025.03.03-22.09.47:996][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_ring_01_l_anim.m_med_nrw_ring_01_l_anim
+[2025.03.03-22.09.48:209][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_ring_01_l_anim.m_med_nrw_ring_01_l_anim, at AnimationSequence/a0a9050feb17bee76010597e074fa56b71e837a6
+[2025.03.03-22.09.48:289][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_middle_02_l_anim.m_med_nrw_middle_02_l_anim
+[2025.03.03-22.09.48:463][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_middle_02_l_anim.m_med_nrw_middle_02_l_anim, at AnimationSequence/2c7e1388150e17c1640ffa3164aba26dcbf9fc5b
+[2025.03.03-22.09.48:542][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_middle_03_l_anim.m_med_nrw_middle_03_l_anim
+[2025.03.03-22.09.48:742][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_middle_03_l_anim.m_med_nrw_middle_03_l_anim, at AnimationSequence/dccc678c0e85a46673bface3344de77c091ef6fa
+[2025.03.03-22.09.48:841][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_middle_01_l_anim.m_med_nrw_middle_01_l_anim
+[2025.03.03-22.09.49:052][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_middle_01_l_anim.m_med_nrw_middle_01_l_anim, at AnimationSequence/194496a058bdf9ee28cbeb56f7dac0a16d3abeb7
+[2025.03.03-22.09.49:149][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_index_02_l_anim.m_med_nrw_index_02_l_anim
+[2025.03.03-22.09.49:316][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_index_02_l_anim.m_med_nrw_index_02_l_anim, at AnimationSequence/d801c85c8255a94f73ea25ddf303586a6094b120
+[2025.03.03-22.09.49:389][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_index_03_l_anim.m_med_nrw_index_03_l_anim
+[2025.03.03-22.09.49:566][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_index_03_l_anim.m_med_nrw_index_03_l_anim, at AnimationSequence/57853e1017e0c2a3003e00c564cd2150689d5eb1
+[2025.03.03-22.09.49:656][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_index_01_l_anim.m_med_nrw_index_01_l_anim
+[2025.03.03-22.09.49:852][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_index_01_l_anim.m_med_nrw_index_01_l_anim, at AnimationSequence/bb8ac2a162bcc6cbcc2d2aebd3b8602d8a893a7f
+[2025.03.03-22.09.49:923][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_thumb_02_l_anim.m_med_nrw_thumb_02_l_anim
+[2025.03.03-22.09.50:036][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_thumb_02_l_anim.m_med_nrw_thumb_02_l_anim, at AnimationSequence/9fda6e82ee1803ec35c4c84b05a86d605444171f
+[2025.03.03-22.09.50:104][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_thumb_03_l_anim.m_med_nrw_thumb_03_l_anim
+[2025.03.03-22.09.50:211][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_thumb_03_l_anim.m_med_nrw_thumb_03_l_anim, at AnimationSequence/90e851dc0dbee3e114d3f9286bb1c501ed6764e1
+[2025.03.03-22.09.50:282][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_thumb_01_l_anim.m_med_nrw_thumb_01_l_anim
+[2025.03.03-22.09.50:390][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_thumb_01_l_anim.m_med_nrw_thumb_01_l_anim, at AnimationSequence/aaf7b92fec766d2cf839999f3fdc466a8dd4048f
+[2025.03.03-22.09.50:468][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_upperarm_r_anim.m_med_nrw_upperarm_r_anim
+[2025.03.03-22.09.50:944][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_upperarm_r_anim.m_med_nrw_upperarm_r_anim, at AnimationSequence/15432095fc58888dde0dcaa75a178de2c24ef8c9
+[2025.03.03-22.09.51:034][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_upperarm_l_anim.m_med_nrw_upperarm_l_anim
+[2025.03.03-22.09.51:503][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_upperarm_l_anim.m_med_nrw_upperarm_l_anim, at AnimationSequence/9607656a3aea07f5fc6fd26f81dcae200bbf6057
+[2025.03.03-22.09.51:589][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_thigh_r_anim.m_med_nrw_thigh_r_anim
+[2025.03.03-22.09.52:173][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_thigh_r_anim.m_med_nrw_thigh_r_anim, at AnimationSequence/8a58a4486790b2ace6f838b4bbdba883a95f457c
+[2025.03.03-22.09.52:249][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_thigh_l_anim.m_med_nrw_thigh_l_anim
+[2025.03.03-22.09.52:772][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_thigh_l_anim.m_med_nrw_thigh_l_anim, at AnimationSequence/7ba519996408a61f690045a450d85977e6f9366b
+[2025.03.03-22.09.52:854][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_lowerarm_r_anim.m_med_nrw_lowerarm_r_anim
+[2025.03.03-22.09.53:210][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_lowerarm_r_anim.m_med_nrw_lowerarm_r_anim, at AnimationSequence/83b5d9229537af07e311ecf3e48a570caf468acc
+[2025.03.03-22.09.53:289][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_lowerarm_l_anim.m_med_nrw_lowerarm_l_anim
+[2025.03.03-22.09.53:646][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_lowerarm_l_anim.m_med_nrw_lowerarm_l_anim, at AnimationSequence/f4e02503e72cccdd218dac4485eaef3efe6b7794
+[2025.03.03-22.09.53:739][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_hand_r_anim.m_med_nrw_hand_r_anim
+[2025.03.03-22.09.53:959][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_hand_r_anim.m_med_nrw_hand_r_anim, at AnimationSequence/e6addb1feb05e019995e514a419829d404754082
+[2025.03.03-22.09.54:039][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_hand_l_anim.m_med_nrw_hand_l_anim
+[2025.03.03-22.09.54:237][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_hand_l_anim.m_med_nrw_hand_l_anim, at AnimationSequence/7af4f3699ec25e68d9a3d3151d38cc02e21e37ff
+[2025.03.03-22.09.54:303][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_foot_r_anim.m_med_nrw_foot_r_anim
+[2025.03.03-22.09.54:418][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_foot_r_anim.m_med_nrw_foot_r_anim, at AnimationSequence/8ff8dbab67786540e3235961e2a7ed2f5d208be9
+[2025.03.03-22.09.54:498][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_foot_l_anim.m_med_nrw_foot_l_anim
+[2025.03.03-22.09.54:605][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_foot_l_anim.m_med_nrw_foot_l_anim, at AnimationSequence/c9df60281852d8367402d7f224a839de1730311b
+[2025.03.03-22.09.54:683][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_clavicle_r_anim.m_med_nrw_clavicle_r_anim
+[2025.03.03-22.09.54:913][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_clavicle_r_anim.m_med_nrw_clavicle_r_anim, at AnimationSequence/b075c560162e6646aa1a5c9e733fbb3fa31d5d8e
+[2025.03.03-22.09.54:994][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_clavicle_l_anim.m_med_nrw_clavicle_l_anim
+[2025.03.03-22.09.55:213][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_clavicle_l_anim.m_med_nrw_clavicle_l_anim, at AnimationSequence/3ea5e1cb44053b60d6a67c8a8db43386831b33fb
+[2025.03.03-22.09.55:294][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_calf_r_anim.m_med_nrw_calf_r_anim
+[2025.03.03-22.09.55:527][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_calf_r_anim.m_med_nrw_calf_r_anim, at AnimationSequence/14d2a57995e7350230400825f698bc8a6b2889ab
+[2025.03.03-22.09.55:597][461]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_calf_l_anim.m_med_nrw_calf_l_anim
+[2025.03.03-22.09.55:837][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/MetaHumans/Common/Male/Medium/NormalWeight/Poses/m_med_nrw_calf_l_anim.m_med_nrw_calf_l_anim, at AnimationSequence/b1ced0d616a67223c271214f13b867e980280de3
+[2025.03.03-22.09.57:772][461]LogTexture: Display: Building textures: /Game/MetaHumans/Common/Materials/DefaultTexture_LinearColor.DefaultTexture_LinearColor (TFO_DXT1, 128x128 x1x1x1) (Required Memory Estimate: 1.927054 MB), EncodeSpeed: Fast
+[2025.03.03-22.09.57:772][461]LogTexture: Display: Building textures: /Game/MetaHumans/Common/Textures/DefaultTexture_VT.DefaultTexture_VT (TFO_DXT1, 128x128 x1x1x1) (Required Memory Estimate: 1.927054 MB), EncodeSpeed: Fast
+[2025.03.03-22.09.57:780][461]LogTexture: Display: Building textures: /Game/MetaHumans/Common/Textures/T_FlatNormal.T_FlatNormal (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2025.03.03-22.09.57:806][461]LogTexture: Display: Building textures: /Game/MetaHumans/Common/Textures/T_BodyHideMask.T_BodyHideMask (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2025.03.03-22.09.57:855][461]LogTexture: Display: Building textures: /Game/MetaHumans/Common/Materials/Textures/T_SkinMicroNormal.T_SkinMicroNormal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 123.562488 MB), EncodeSpeed: Fast
+[2025.03.03-22.09.57:968][461]LogSkeletalMesh: Building Skeletal Mesh m_med_nrw_body...
+[2025.03.03-22.09.58:163][461]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (m_med_nrw_body) ...
+[2025.03.03-22.09.59:271][461]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.03.03-22.10.00:037][461]LogSkeletalMesh: Built Skeletal Mesh [2.09s] /Game/MetaHumans/Myles/Male/Medium/NormalWeight/Body/m_med_nrw_body.m_med_nrw_body
+[2025.03.03-22.10.00:410][462]LogAutomationController: Ignoring very large delta of 34.05 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.03-22.10.02:024][466]LogTexture: Display: Building textures: /Game/MetaHumans/Common/Male/Textures/male_001/8K/male_body_cavity_map.male_body_cavity_map (TFO_AutoDXT, 8192x8192 x1x1x1) (Required Memory Estimate: 4608.062484 MB), EncodeSpeed: Fast
