@@ -1,0 +1,14 @@
+# Unreal Engine Cache ve Gereksiz Dosyalar
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vscode/
+.idea/
+*.sln
+*.log
+*.obj
+*.pdb
+*.sdf
+*.VC.db

@@ -1,8 +1,0 @@
-2023/10/19-13:38:18.536 4b48 Reusing MANIFEST D:/ProjectAboutUnreal/23_08_2023_In_The_Shadows/HorrorEngine/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/19-13:38:18.541 4b48 Recovering log #27
-2023/10/19-13:38:18.541 4b48 Reusing old log D:/ProjectAboutUnreal/23_08_2023_In_The_Shadows/HorrorEngine/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000027.log 
-2023/10/19-13:44:55.509 a84 Level-0 table #31: started
-2023/10/19-13:44:55.509 a84 Level-0 table #31: 0 bytes OK
-2023/10/19-13:44:55.514 a84 Delete type=0 #27
-2023/10/19-13:44:55.516 a84 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2023/10/19-13:44:55.516 a84 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
